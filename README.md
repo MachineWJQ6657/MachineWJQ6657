@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+```txt
+I am a first-year student currently majoring in Computer Science at the Ohio State University.
+
+I come from Suzhou, China, and am currently living in Columbus, OH, US.
+
+Favorite Programming Language: C++
+Other Programming Languages: Java, Python, JavaScript
+```
+
+
+
 <!--
 **onetrue-6657/onetrue-6657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
