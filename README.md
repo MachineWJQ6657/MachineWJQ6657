@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```txt
 I am a first-year student currently majoring in Computer Science at the Ohio State University.
 
