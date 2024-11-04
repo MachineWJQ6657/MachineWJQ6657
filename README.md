@@ -8,7 +8,7 @@ I come from Suzhou, China, and am currently living in Columbus, OH, US.
 Favorite Programming Language: C++
 Other Programming Languages: Java, Python, JavaScript
 ```
-
+<img src = "https://raw.githubusercontent.com/onetrue-6657/image-hosting/main/img/pfp/NailongOneTrue.jpg"/>
 
 
 <!--
