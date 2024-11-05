@@ -8,7 +8,7 @@ Other Programming Languages: Java, Python, JavaScript
 
 Discord: @shenmijuruo
 ```
-<img src = "https://raw.githubusercontent.com/onetrue-6657/image-hosting/main/img/pfp/NailongOneTrue.jpg"/>
+<img src = "https://raw.githubusercontent.com/onetrue-6657/image-hosting/main/img/pfp/NailongOneTrue.jpg" style = "width: 400px; height: 400px" />
 
 
 <!--
