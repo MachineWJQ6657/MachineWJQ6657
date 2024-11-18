@@ -1,7 +1,5 @@
 ```txt
-I am a first-year student currently majoring in Computer Science at the Ohio State University.
-
-I come from Suzhou, China, and am currently living in Columbus, OH, US.
+o-v-o.me o-v-o.xyz
 
 Favorite Programming Language: C++
 Other Programming Languages: Java, Python, JavaScript
