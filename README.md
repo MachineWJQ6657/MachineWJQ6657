@@ -3,15 +3,7 @@ o-v-o.xyz
 
 中文/English
 
-Columbus, OH
-Suzhou, China
-
-Favorite Programming Language: C++
-Other Programming Languages: Java, Python, JavaScript
-
-Discord: @shenmijuruo
-
-6657 UP UP
+douyu.com/6657
 ```
 <img src = "https://raw.githubusercontent.com/onetrue-6657/image-hosting/main/img/pfp/NailongOneTrue.jpg" style = "width: 400px; height: 400px" />
 
