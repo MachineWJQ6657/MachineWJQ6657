@@ -1,3 +1,7 @@
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ```txt
 o-v-o.xyz
 
