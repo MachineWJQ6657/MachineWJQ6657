@@ -1,4 +1,14 @@
 <!--START_SECTION:waka-->
+
+```rust
+From: 28 January 2025 - To: 29 January 2025
+
+Total Time: 1 min
+
+JavaScript   0 secs          >>>>>>>>>>>>>>>>>>>>>----   85.62 %
+Markdown     0 secs          >>>>---------------------   14.38 %
+```
+
 <!--END_SECTION:waka-->
 
 ```txt
