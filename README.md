@@ -1,12 +1,15 @@
 <!--START_SECTION:waka-->
 
-```rust
-From: 28 January 2025 - To: 30 January 2025
+```txt
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 2 hrs 21 mins
+Total Time: 7 hrs 31 mins
 
-JavaScript   2 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.00 %
-Markdown     2 mins          >------------------------   02.00 %
+JavaScript   5 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>=====   78.34 %
+Markdown     28 mins         >>=======================   06.34 %
+C++          21 mins         >========================   04.85 %
+CSV          16 mins         >========================   03.75 %
+Java         11 mins         >========================   02.58 %
 ```
 
 <!--END_SECTION:waka-->
