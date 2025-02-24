@@ -25,6 +25,7 @@ No.1 6657 Fan in Ohio ✺ω✺
 DPtsd competitive programmer OvO
 Beginner full-stack developer ´・ω・`
 Newbie Gen Art Creator =w=
+Developing front-ender qwq
 
 C++/Java/Python/JavaScript/...
 
