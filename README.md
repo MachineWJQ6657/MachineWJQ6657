@@ -45,7 +45,7 @@ Personal Website: [o-v-o.xyz](o-v-o.xyz)
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/onetrue-6657/image-hosting/main/img/pfp/NailongOneTrue.jpg"  />
 
 ###
 
@@ -81,7 +81,3 @@ Personal Website: [o-v-o.xyz](o-v-o.xyz)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src = "https://raw.githubusercontent.com/onetrue-6657/image-hosting/main/img/pfp/NailongOneTrue.jpg" style = "width: 400px; height: 400px" />
