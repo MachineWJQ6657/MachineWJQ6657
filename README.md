@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 23 February 2025 - To: 02 March 2025
+
 JavaScript   4 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.70 %
 Java         3 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
 CSS          2 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
