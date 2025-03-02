@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 11 * * *"
 
 jobs:
   update-readme:
@@ -18,3 +18,5 @@ jobs:
           COMMIT_MESSAGE: "Update WakaTime stats"
           SHOW_TIME: true
           BLOCKS: "⬜🟨🟩"
+          SHOW_TOTAL: true
+          TIME_RANGE: all_time
