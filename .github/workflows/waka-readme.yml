@@ -13,9 +13,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api
           SHOW_TITLE: true
+          SECTION_NAME: waka
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
