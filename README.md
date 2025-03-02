@@ -17,9 +17,6 @@ Markdown     1 hr 44 mins    >>=======================   09.26 %
 ### 💾 Github Stats
 ![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=onetrue-6657&show_icons=true&theme=github_dark#gh-dark-mode-only)
 
-<br><br>
-![](https://komarev.com/ghpvc/?username=onetrue-6657&label=Profile%20views&color=0e75b6&style=flat)
-
 ```txt
 o-v-o.xyz
 
