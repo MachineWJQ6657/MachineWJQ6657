@@ -16,7 +16,5 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           COMMIT_MESSAGE: "Update WakaTime stats"
-          BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: 7_days 
+          BLOCKS: ⬜🟨🟩
           SHOW_TIME: true
-          SHOW_TOTAL: false
