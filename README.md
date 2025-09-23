@@ -14,4 +14,4 @@ TOML         1 min           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 
-道心破碎了
+[https://linktr.ee/idkwiawww](https://linktr.ee/idkwiawww)
